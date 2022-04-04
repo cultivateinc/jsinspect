@@ -1,6 +1,6 @@
 {
-  "name": "jsinspect",
-  "version": "0.12.7",
+  "name": "@cultivateinc/jsinspect",
+  "version": "0.13.0",
   "description": "Detect structural similarities in your code",
   "keywords": [
     "inspect",
@@ -13,10 +13,10 @@
   ],
   "author": "Daniel St. Jules <danielst.jules@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/danielstjules/jsinspect",
+  "homepage": "https://github.com/cultivateinc/jsinspect",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielstjules/jsinspect.git"
+    "url": "https://github.com/cultivateinc/jsinspect.git"
   },
   "dependencies": {
     "@babel/parser": "^7.17.8",
