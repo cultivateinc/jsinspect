@@ -1,10 +1,16 @@
-![jsinspect](http://danielstjules.com/github/jsinspect-logo.png)
+## jsinspect
+
+Forked from [danielstjules/jsinspect](https://github.com/danielstjules/jsinspect).
+
+```
+npm i -D @cultivateinc/jsinspect
+```
+
+## About
 
 Detect copy-pasted and structurally similar JavaScript code. Requires Node.js
 6.0+, and supports ES6, JSX as well as Flow. Note: the project has been mostly
 rewritten for the 0.10 release and saw several breaking changes.
-
-[![Build Status](https://travis-ci.org/danielstjules/jsinspect.svg?branch=master)](https://travis-ci.org/danielstjules/jsinspect)
 
 * [Overview](#overview)
 * [Installation](#installation)
